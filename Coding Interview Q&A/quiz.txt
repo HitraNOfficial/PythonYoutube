@@ -1,0 +1,5 @@
+What is a primary key? |1. Primary key is a non null combination of fields which uniquely specify a row|2. The first element in a row.|3. Element that doesn't allow access to the data in a table|1|
+Which of the described is not a join statement? |1. Left join. |2. Inner join. |3. Mega join. |3|
+What is a View?  |1. Normal table in database. |2. A view is a virtual table which consists of a subset of data contained in a table. |3. This doesn't exist in S.Q.L. |2|
+Which of the described is not a relationship between tables?  |1. One to One Relationship. |2. Self-Referencing Relationship. |3. Personal data Relationship |3|
+What is Auto Increment? |1.Auto increment keyword allows the user to create a unique number to be generated when a new record is inserted into the table. |B. This doesn't exist. |3. Keyword used for incrementing dates. |1|
