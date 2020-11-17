@@ -1,7 +1,10 @@
 ### Python libs to install
 pip install wheel
+
 pip install playsound
+
 pip install SpeechRecognition
+
 pip install pyttsx3
 
 pip install pipwin
