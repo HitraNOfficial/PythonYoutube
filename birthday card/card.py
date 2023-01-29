@@ -24,6 +24,6 @@ turtle.end_fill()
 turtle.sety(-100)
 turtle.color('deep pink')
 style = ('Courier', 50, 'italic')
-turtle.write('Happy Birthday, HitraN!', font=style, align='center')
+turtle.write('Happy Birthday DEEKSHITA, font=style, align='center')
 
 screen.mainloop()
