@@ -21,7 +21,7 @@ def quit_tor():
 def play_playlist():
     pyautogui.click(x=300, y=80)
     pyautogui.typewrite(
-        'https://www.youtube.com/watch?v=KCWwkNM0Lek&list=PLvpkNhrb06BwUjJhHbpXGgr2oGRyaoPpH')
+        'https://youtu.be/eTljKIvg3Ho?si=P0Vh5I3oQVsG3DU')
     pyautogui.press('enter')
     time.sleep(20)  # for loading of video
     pyautogui.press('space')  # start the video
